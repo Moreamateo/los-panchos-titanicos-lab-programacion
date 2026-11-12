@@ -1,0 +1,13 @@
+moviepy>=2.1.0
+pillow
+numpy
+imageio
+imageio-ffmpeg
+opencv-python-headless
+edge-tts
+pydub
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+tzdata

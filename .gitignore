@@ -1,0 +1,34 @@
+# Entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Credenciales locales
+.env
+.env.*
+client_secret*.json
+client_secrets*.json
+token*.json
+Token.txt
+credentials*.json
+*credentials*.json
+secrets*.json
+*.pem
+*.key
+# Resultados y temporales: conservar solo el directorio vacío
+output/*
+!output/.gitkeep
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.tmp
+*.temp
+*.log
+*.part
+*~
+tmp/
+temp/
